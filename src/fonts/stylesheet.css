@@ -1,0 +1,143 @@
+@font-face {
+  font-family: "___Kufam___";
+  src: url("Kufam-Bold.eot");
+  src: url("Kufam-Bold.eot?#iefix") format("embedded-opentype"),
+    url("Kufam-Bold.woff2") format("woff2"),
+    url("Kufam-Bold.woff") format("woff"),
+    url("Kufam-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "___Kufam___";
+  src: url("Kufam-Black.eot");
+  src: url("Kufam-Black.eot?#iefix") format("embedded-opentype"),
+    url("Kufam-Black.woff2") format("woff2"),
+    url("Kufam-Black.woff") format("woff"),
+    url("Kufam-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "___Kufam___";
+  src: url("Kufam-BlackItalic.eot");
+  src: url("Kufam-BlackItalic.eot?#iefix") format("embedded-opentype"),
+    url("Kufam-BlackItalic.woff2") format("woff2"),
+    url("Kufam-BlackItalic.woff") format("woff"),
+    url("Kufam-BlackItalic.ttf") format("truetype");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "___Kufam___";
+  src: url("Kufam-ExtraBoldItalic.eot");
+  src: url("Kufam-ExtraBoldItalic.eot?#iefix") format("embedded-opentype"),
+    url("Kufam-ExtraBoldItalic.woff2") format("woff2"),
+    url("Kufam-ExtraBoldItalic.woff") format("woff"),
+    url("Kufam-ExtraBoldItalic.ttf") format("truetype");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "___Kufam___";
+  src: url("Kufam-BoldItalic.eot");
+  src: url("Kufam-BoldItalic.eot?#iefix") format("embedded-opentype"),
+    url("Kufam-BoldItalic.woff2") format("woff2"),
+    url("Kufam-BoldItalic.woff") format("woff"),
+    url("Kufam-BoldItalic.ttf") format("truetype");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "___Kufam___";
+  src: url("Kufam-ExtraBold.eot");
+  src: url("Kufam-ExtraBold.eot?#iefix") format("embedded-opentype"),
+    url("Kufam-ExtraBold.woff2") format("woff2"),
+    url("Kufam-ExtraBold.woff") format("woff"),
+    url("Kufam-ExtraBold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "___Kufam___";
+  src: url("Kufam-Italic.eot");
+  src: url("Kufam-Italic.eot?#iefix") format("embedded-opentype"),
+    url("Kufam-Italic.woff2") format("woff2"),
+    url("Kufam-Italic.woff") format("woff"),
+    url("Kufam-Italic.ttf") format("truetype");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "___Kufam___";
+  src: url("Kufam-SemiBoldItalic.eot");
+  src: url("Kufam-SemiBoldItalic.eot?#iefix") format("embedded-opentype"),
+    url("Kufam-SemiBoldItalic.woff2") format("woff2"),
+    url("Kufam-SemiBoldItalic.woff") format("woff"),
+    url("Kufam-SemiBoldItalic.ttf") format("truetype");
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "___Kufam___";
+  src: url("Kufam-MediumItalic.eot");
+  src: url("Kufam-MediumItalic.eot?#iefix") format("embedded-opentype"),
+    url("Kufam-MediumItalic.woff2") format("woff2"),
+    url("Kufam-MediumItalic.woff") format("woff"),
+    url("Kufam-MediumItalic.ttf") format("truetype");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "___Kufam___";
+  src: url("Kufam-Regular.eot");
+  src: url("Kufam-Regular.eot?#iefix") format("embedded-opentype"),
+    url("Kufam-Regular.woff2") format("woff2"),
+    url("Kufam-Regular.woff") format("woff"),
+    url("Kufam-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "___Kufam___";
+  src: url("Kufam-SemiBold.eot");
+  src: url("Kufam-SemiBold.eot?#iefix") format("embedded-opentype"),
+    url("Kufam-SemiBold.woff2") format("woff2"),
+    url("Kufam-SemiBold.woff") format("woff"),
+    url("Kufam-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "___Kufam___";
+  src: url("Kufam-Medium.eot");
+  src: url("Kufam-Medium.eot?#iefix") format("embedded-opentype"),
+    url("Kufam-Medium.woff2") format("woff2"),
+    url("Kufam-Medium.woff") format("woff"),
+    url("Kufam-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
